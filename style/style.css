@@ -52,6 +52,7 @@ header ul{
     background-color: var(--verde);
     color: var(--princbg);
     text-decoration: underline;
+    cursor: pointer;
 }
 
 h1#title{
